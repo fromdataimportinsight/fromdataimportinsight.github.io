@@ -1,3 +1,13 @@
+# fromdataimportinsight.github.io
+
+## Workflow
+
+- Write posts in `_drafts` directory.
+- Make sure things look good. You can do `jekyll serve -D -w` locally to include posts from `_drafts` directories in the build, and watch it(`-w`).
+- When you're done with a post, move it over to `_posts`.
+
+* * *
+
 Demo: [http://webjeda.com/karna](http://webjeda.com/karna)
 
 # Installation: 
