@@ -2,7 +2,7 @@
 layout: post
 title:  "Tweets vs Bills"
 description: Is there any correlation between how active a congressperson is on twitter, and how many bills he/she (co-)sponsored?
-img: tweets-vs-bills.png
+img: tweets-vs-bills.jpg
 color: 37474F
 author: fdis
 ---
